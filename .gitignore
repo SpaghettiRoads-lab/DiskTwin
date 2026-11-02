@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+DiskTwin.app/
+icons/icons_21st.json
+icons/test_hd.svg
